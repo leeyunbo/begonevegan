@@ -8,7 +8,7 @@
 /httpRequests/
 
 # Database Configuration
-config.properties
+*.properties
 
 # Intellij Project Files
 target
