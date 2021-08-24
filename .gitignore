@@ -7,9 +7,6 @@
 # Editor-based HTTP Client requests
 /httpRequests/
 
-# properties
-*.properties
-
 # Intellij Project Files
 target
 build
@@ -25,4 +22,5 @@ build
 .svn
 *.class
 *.bak
+out
 
