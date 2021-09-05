@@ -13,3 +13,5 @@
 1. Intellij 
 2. Android Studio
 
+## 문서 
+[Be gone, vegan 개발 문서](https://www.notion.so/9f8544ed4e17495ba31357d5aa89a610)
